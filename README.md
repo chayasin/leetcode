@@ -2,4 +2,6 @@
 
 my leet code work
 
-I use both JavaScripts and Python3
+I use JavaScripts and Python
+
+I need to be good at both.
